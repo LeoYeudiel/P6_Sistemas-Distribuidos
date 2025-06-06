@@ -1,0 +1,3 @@
+runtime: nodejs20  # Versión de Node.js
+env: standard      # Entorno estándar (obligatorio)
+service: default   # Nombre del servicio (opcional)
